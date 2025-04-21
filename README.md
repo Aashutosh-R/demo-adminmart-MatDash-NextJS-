@@ -17,7 +17,7 @@
 </a>
 
 
-## 🚀 Introduction
+## 👋 Introduction
 
 **MatDash  Free Tailwind Next.js Admin Dashboard Template** is a modern, responsive admin template built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Flowbite UI**. It’s designed to help developers quickly build clean, scalable, and high-performance web applications.
 
